@@ -11,7 +11,7 @@
 carpentry: 'swc'
 
 # Overall title for pages.
-title: 'Version Control with Git'
+title: 'Introduction to Git & GitHub'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: '2014-12-04'
@@ -68,11 +68,11 @@ episodes:
 - 07-github.md
 - 08-collab.md
 - 09-conflict.md
-- 10-open.md
-- 11-licensing.md
-- 12-citation.md
-- 13-hosting.md
-- 14-supplemental-rstudio.md
+#- 10-open.md
+#- 11-licensing.md
+#- 12-citation.md
+#- 13-hosting.md
+#- 14-supplemental-rstudio.md
 
 # Information for Learners
 learners: 
