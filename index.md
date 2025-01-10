@@ -43,16 +43,3 @@ project relies on it, and most programmers use it for their small jobs
 as well.  And it isn't just for software: books,
 papers, small data sets, and anything that changes over time or needs
 to be shared can and should be stored in a version control system.
-
-::::::::::::::::::::::::::::::::::::::::::  prereq
-
-## Prerequisites
-
-In this lesson we use Git from the Unix Shell.
-Some previous experience with the shell is expected,
-*but isn't mandatory*.
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
