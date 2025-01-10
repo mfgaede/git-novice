@@ -1,7 +1,6 @@
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://slack-invite.carpentries.org/)
-[![Slack Status](https://img.shields.io/badge/Slack_Channel-swc--git-E01563.svg)](https://carpentries.slack.com/messages/C91JS49HD)
+# Introduction to Git & GitHub
 
-# git-novice
+Adapted for DSCI / LIB 350M @ the University of Oregon Winter 2025. 
 
 An introduction to version control for novices using Git.
 Please see [https://swcarpentry.github.io/git-novice/](https://swcarpentry.github.io/git-novice/) for a rendered version of this material,
